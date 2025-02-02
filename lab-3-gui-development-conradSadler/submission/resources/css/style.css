@@ -1,0 +1,13 @@
+/* Custom styles */
+.navbar {
+    background-color: rgba(255, 251, 251, 0);
+}
+
+.navbar-nav {
+    margin-right: auto !important;
+}
+
+.tree-icon {
+    color: rgb(84, 143, 238);
+    font-size: 24px;
+}
